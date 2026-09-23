@@ -1,0 +1,1591 @@
+[
+  {
+    "login": "manojsp12",
+    "id": 43261486,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43261486?v=4",
+    "htmlUrl": "https://github.com/manojsp12",
+    "contributions": 2017,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2023-12-31T00:00:00.000Z"
+  },
+  {
+    "login": "SwatiPeriwal",
+    "id": 95334601,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95334601?v=4",
+    "htmlUrl": "https://github.com/SwatiPeriwal",
+    "contributions": 1922,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2024-02-25T00:00:00.000Z"
+  },
+  {
+    "login": "RamaduraiPandian1989",
+    "id": 45333989,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45333989?v=4",
+    "htmlUrl": "https://github.com/RamaduraiPandian1989",
+    "contributions": 1710,
+    "repos": [
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2020-03-08T00:00:00.000Z"
+  },
+  {
+    "login": "sowmya695",
+    "id": 43202851,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43202851?v=4",
+    "htmlUrl": "https://github.com/sowmya695",
+    "contributions": 1486,
+    "repos": [
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2022-08-28T00:00:00.000Z"
+  },
+  {
+    "login": "MonobikashDas",
+    "id": 43202165,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43202165?v=4",
+    "htmlUrl": "https://github.com/MonobikashDas",
+    "contributions": 1206,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2024-05-26T00:00:00.000Z"
+  },
+  {
+    "login": "nayakrounak",
+    "id": 44160407,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44160407?v=4",
+    "htmlUrl": "https://github.com/nayakrounak",
+    "contributions": 1007,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2023-10-29T00:00:00.000Z"
+  },
+  {
+    "login": "loganathan-sekaran",
+    "id": 42532387,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42532387?v=4",
+    "htmlUrl": "https://github.com/loganathan-sekaran",
+    "contributions": 853,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2024-06-02T00:00:00.000Z"
+  },
+  {
+    "login": "ckm007",
+    "id": 53175697,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53175697?v=4",
+    "htmlUrl": "https://github.com/ckm007",
+    "contributions": 629,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2026-09-06T00:00:00.000Z"
+  },
+  {
+    "login": "svahsek",
+    "id": 117708272,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117708272?v=4",
+    "htmlUrl": "https://github.com/svahsek",
+    "contributions": 533,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "login": "saumyamosip",
+    "id": 56914153,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56914153?v=4",
+    "htmlUrl": "https://github.com/saumyamosip",
+    "contributions": 522,
+    "repos": [
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2020-07-12T00:00:00.000Z"
+  },
+  {
+    "login": "urviljoshi",
+    "id": 42868205,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42868205?v=4",
+    "htmlUrl": "https://github.com/urviljoshi",
+    "contributions": 497,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2024-05-26T00:00:00.000Z"
+  },
+  {
+    "login": "pjoshi751",
+    "id": 48353425,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48353425?v=4",
+    "htmlUrl": "https://github.com/pjoshi751",
+    "contributions": 436,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2025-12-14T00:00:00.000Z"
+  },
+  {
+    "login": "gsasikumar",
+    "id": 9209256,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9209256?v=4",
+    "htmlUrl": "https://github.com/gsasikumar",
+    "contributions": 355,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2025-06-08T00:00:00.000Z"
+  },
+  {
+    "login": "mahammedtaheer",
+    "id": 57249563,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57249563?v=4",
+    "htmlUrl": "https://github.com/mahammedtaheer",
+    "contributions": 286,
+    "repos": [
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2025-11-09T00:00:00.000Z"
+  },
+  {
+    "login": "Balakuntalam",
+    "id": 156779824,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/156779824?v=4",
+    "htmlUrl": "https://github.com/Balakuntalam",
+    "contributions": 278,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2024-05-05T00:00:00.000Z"
+  },
+  {
+    "login": "vibha-gondkar",
+    "id": 169332284,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/169332284?v=4",
+    "htmlUrl": "https://github.com/vibha-gondkar",
+    "contributions": 271,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2025-04-20T00:00:00.000Z"
+  },
+  {
+    "login": "kameshsr",
+    "id": 47484458,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47484458?v=4",
+    "htmlUrl": "https://github.com/kameshsr",
+    "contributions": 252,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2025-11-16T00:00:00.000Z"
+  },
+  {
+    "login": "github-actions[bot]",
+    "id": 41898282,
+    "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+    "htmlUrl": "https://github.com/apps/github-actions",
+    "contributions": 212,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2025-12-21T00:00:00.000Z"
+  },
+  {
+    "login": "mandeepdhiman123",
+    "id": 46880392,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46880392?v=4",
+    "htmlUrl": "https://github.com/mandeepdhiman123",
+    "contributions": 211,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2022-04-10T00:00:00.000Z"
+  },
+  {
+    "login": "vipuldhurve02",
+    "id": 91187598,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91187598?v=4",
+    "htmlUrl": "https://github.com/vipuldhurve02",
+    "contributions": 168,
+    "repos": [
+      "mosip/documentation",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2022-05-08T00:00:00.000Z"
+  },
+  {
+    "login": "reshamchugani2",
+    "id": 110161197,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110161197?v=4",
+    "htmlUrl": "https://github.com/reshamchugani2",
+    "contributions": 154,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons"
+    ],
+    "lastActive": "2026-05-03T00:00:00.000Z"
+  },
+  {
+    "login": "GirishYarru",
+    "id": 43373811,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43373811?v=4",
+    "htmlUrl": "https://github.com/GirishYarru",
+    "contributions": 144,
+    "repos": [
+      "mosip/commons"
+    ],
+    "lastActive": "2019-12-29T00:00:00.000Z"
+  },
+  {
+    "login": "rambhatt1591",
+    "id": 77657115,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77657115?v=4",
+    "htmlUrl": "https://github.com/rambhatt1591",
+    "contributions": 137,
+    "repos": [
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2022-04-10T00:00:00.000Z"
+  },
+  {
+    "login": "hosurkrishnan",
+    "id": 38644228,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38644228?v=4",
+    "htmlUrl": "https://github.com/hosurkrishnan",
+    "contributions": 124,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2022-11-13T00:00:00.000Z"
+  },
+  {
+    "login": "vishwa-vyom",
+    "id": 9315119,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9315119?v=4",
+    "htmlUrl": "https://github.com/vishwa-vyom",
+    "contributions": 123,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2024-09-08T00:00:00.000Z"
+  },
+  {
+    "login": "srinivasanMT",
+    "id": 43340152,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43340152?v=4",
+    "htmlUrl": "https://github.com/srinivasanMT",
+    "contributions": 114,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons"
+    ],
+    "lastActive": "2020-05-10T00:00:00.000Z"
+  },
+  {
+    "login": "NagarjunaKuchi",
+    "id": 22051090,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22051090?v=4",
+    "htmlUrl": "https://github.com/NagarjunaKuchi",
+    "contributions": 113,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2022-04-17T00:00:00.000Z"
+  },
+  {
+    "login": "MeghaUttamTanga",
+    "id": 42896054,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42896054?v=4",
+    "htmlUrl": "https://github.com/MeghaUttamTanga",
+    "contributions": 104,
+    "repos": [
+      "mosip/commons"
+    ],
+    "lastActive": "2020-07-05T00:00:00.000Z"
+  },
+  {
+    "login": "Prafulrakhade",
+    "id": 99539100,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99539100?v=4",
+    "htmlUrl": "https://github.com/Prafulrakhade",
+    "contributions": 100,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2025-12-21T00:00:00.000Z"
+  },
+  {
+    "login": "sadanandegowda",
+    "id": 43214830,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43214830?v=4",
+    "htmlUrl": "https://github.com/sadanandegowda",
+    "contributions": 93,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2021-03-07T00:00:00.000Z"
+  },
+  {
+    "login": "Varaniya201",
+    "id": 177909829,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/177909829?v=4",
+    "htmlUrl": "https://github.com/Varaniya201",
+    "contributions": 93,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2026-09-13T00:00:00.000Z"
+  },
+  {
+    "login": "MOSIPRajath",
+    "id": 43267969,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43267969?v=4",
+    "htmlUrl": "https://github.com/MOSIPRajath",
+    "contributions": 83,
+    "repos": [
+      "mosip/commons"
+    ],
+    "lastActive": "2020-02-16T00:00:00.000Z"
+  },
+  {
+    "login": "vipuldhurve",
+    "id": 53032844,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53032844?v=4",
+    "htmlUrl": "https://github.com/vipuldhurve",
+    "contributions": 82,
+    "repos": [
+      "mosip/documentation",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2022-05-08T00:00:00.000Z"
+  },
+  {
+    "login": "BalamuruganRamamoorthy",
+    "id": 43470712,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43470712?v=4",
+    "htmlUrl": "https://github.com/BalamuruganRamamoorthy",
+    "contributions": 80,
+    "repos": [
+      "mosip/commons"
+    ],
+    "lastActive": "2019-12-29T00:00:00.000Z"
+  },
+  {
+    "login": "Neha2365",
+    "id": 110969715,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110969715?v=4",
+    "htmlUrl": "https://github.com/Neha2365",
+    "contributions": 70,
+    "repos": [
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2024-04-28T00:00:00.000Z"
+  },
+  {
+    "login": "Sohandey",
+    "id": 72375959,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72375959?v=4",
+    "htmlUrl": "https://github.com/Sohandey",
+    "contributions": 69,
+    "repos": [
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2024-11-03T00:00:00.000Z"
+  },
+  {
+    "login": "MOSIP-KISHAN",
+    "id": 43268101,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43268101?v=4",
+    "htmlUrl": "https://github.com/MOSIP-KISHAN",
+    "contributions": 63,
+    "repos": [
+      "mosip/commons"
+    ],
+    "lastActive": "2020-01-26T00:00:00.000Z"
+  },
+  {
+    "login": "gurpreet5991",
+    "id": 13726582,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13726582?v=4",
+    "htmlUrl": "https://github.com/gurpreet5991",
+    "contributions": 61,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2020-01-12T00:00:00.000Z"
+  },
+  {
+    "login": "dhanendra06",
+    "id": 60607841,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60607841?v=4",
+    "htmlUrl": "https://github.com/dhanendra06",
+    "contributions": 57,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2025-12-14T00:00:00.000Z"
+  },
+  {
+    "login": "nandhu-kumar",
+    "id": 100744358,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100744358?v=4",
+    "htmlUrl": "https://github.com/nandhu-kumar",
+    "contributions": 50,
+    "repos": [
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2025-12-07T00:00:00.000Z"
+  },
+  {
+    "login": "TaleevAalam",
+    "id": 43337621,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43337621?v=4",
+    "htmlUrl": "https://github.com/TaleevAalam",
+    "contributions": 46,
+    "repos": [
+      "mosip/commons"
+    ],
+    "lastActive": "2019-12-29T00:00:00.000Z"
+  },
+  {
+    "login": "Ajay1596",
+    "id": 44763643,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44763643?v=4",
+    "htmlUrl": "https://github.com/Ajay1596",
+    "contributions": 42,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons"
+    ],
+    "lastActive": "2021-08-22T00:00:00.000Z"
+  },
+  {
+    "login": "yaswanths2",
+    "id": 43470191,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43470191?v=4",
+    "htmlUrl": "https://github.com/yaswanths2",
+    "contributions": 42,
+    "repos": [
+      "mosip/commons"
+    ],
+    "lastActive": "2021-08-01T00:00:00.000Z"
+  },
+  {
+    "login": "dependabot[bot]",
+    "id": 49699333,
+    "avatarUrl": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "htmlUrl": "https://github.com/apps/dependabot",
+    "contributions": 40,
+    "repos": [
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2022-03-20T00:00:00.000Z"
+  },
+  {
+    "login": "anushasunkada",
+    "id": 270975584,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/270975584?v=4",
+    "htmlUrl": "https://github.com/anushasunkada",
+    "contributions": 38,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2022-10-16T00:00:00.000Z"
+  },
+  {
+    "login": "syedsalman3753",
+    "id": 72004356,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72004356?v=4",
+    "htmlUrl": "https://github.com/syedsalman3753",
+    "contributions": 37,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2024-08-25T00:00:00.000Z"
+  },
+  {
+    "login": "mamta-344",
+    "id": 80953123,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80953123?v=4",
+    "htmlUrl": "https://github.com/mamta-344",
+    "contributions": 37,
+    "repos": [
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2022-02-13T00:00:00.000Z"
+  },
+  {
+    "login": "Mohanraj209",
+    "id": 97426812,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97426812?v=4",
+    "htmlUrl": "https://github.com/Mohanraj209",
+    "contributions": 36,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2025-12-07T00:00:00.000Z"
+  },
+  {
+    "login": "Rakshitha650",
+    "id": 76676196,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76676196?v=4",
+    "htmlUrl": "https://github.com/Rakshitha650",
+    "contributions": 34,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2025-09-07T00:00:00.000Z"
+  },
+  {
+    "login": "aihamh",
+    "id": 89243555,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89243555?v=4",
+    "htmlUrl": "https://github.com/aihamh",
+    "contributions": 34,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2023-10-29T00:00:00.000Z"
+  },
+  {
+    "login": "harishmejari8496",
+    "id": 83645249,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83645249?v=4",
+    "htmlUrl": "https://github.com/harishmejari8496",
+    "contributions": 33,
+    "repos": [
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2021-08-08T00:00:00.000Z"
+  },
+  {
+    "login": "ssenmosip",
+    "id": 47168405,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47168405?v=4",
+    "htmlUrl": "https://github.com/ssenmosip",
+    "contributions": 32,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2019-11-24T00:00:00.000Z"
+  },
+  {
+    "login": "Mahesh-Binayak",
+    "id": 76687012,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76687012?v=4",
+    "htmlUrl": "https://github.com/Mahesh-Binayak",
+    "contributions": 31,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2025-12-14T00:00:00.000Z"
+  },
+  {
+    "login": "bhumi46",
+    "id": 111699703,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111699703?v=4",
+    "htmlUrl": "https://github.com/bhumi46",
+    "contributions": 31,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2026-07-05T00:00:00.000Z"
+  },
+  {
+    "login": "rakhimosip",
+    "id": 86289097,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86289097?v=4",
+    "htmlUrl": "https://github.com/rakhimosip",
+    "contributions": 31,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2022-05-08T00:00:00.000Z"
+  },
+  {
+    "login": "rachik1709",
+    "id": 191247547,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/191247547?v=4",
+    "htmlUrl": "https://github.com/rachik1709",
+    "contributions": 27,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "login": "balaji-alluru",
+    "id": 74903654,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74903654?v=4",
+    "htmlUrl": "https://github.com/balaji-alluru",
+    "contributions": 26,
+    "repos": [
+      "mosip/documentation",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2024-01-14T00:00:00.000Z"
+  },
+  {
+    "login": "MOSIPTapaswini",
+    "id": 43267541,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43267541?v=4",
+    "htmlUrl": "https://github.com/MOSIPTapaswini",
+    "contributions": 26,
+    "repos": [
+      "mosip/commons"
+    ],
+    "lastActive": "2019-12-29T00:00:00.000Z"
+  },
+  {
+    "login": "RitikJain4108",
+    "id": 99730411,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99730411?v=4",
+    "htmlUrl": "https://github.com/RitikJain4108",
+    "contributions": 25,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2024-06-02T00:00:00.000Z"
+  },
+  {
+    "login": "HimajaDhanyamraju2",
+    "id": 43470317,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43470317?v=4",
+    "htmlUrl": "https://github.com/HimajaDhanyamraju2",
+    "contributions": 24,
+    "repos": [
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2024-07-07T00:00:00.000Z"
+  },
+  {
+    "login": "manishpandey0108",
+    "id": 78401337,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78401337?v=4",
+    "htmlUrl": "https://github.com/manishpandey0108",
+    "contributions": 23,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons"
+    ],
+    "lastActive": "2021-08-29T00:00:00.000Z"
+  },
+  {
+    "login": "jainhitesh9998",
+    "id": 16622965,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16622965?v=4",
+    "htmlUrl": "https://github.com/jainhitesh9998",
+    "contributions": 22,
+    "repos": [
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2024-08-18T00:00:00.000Z"
+  },
+  {
+    "login": "Pragya279",
+    "id": 62102767,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62102767?v=4",
+    "htmlUrl": "https://github.com/Pragya279",
+    "contributions": 21,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2026-01-11T00:00:00.000Z"
+  },
+  {
+    "login": "pvsaidurga",
+    "id": 132046494,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/132046494?v=4",
+    "htmlUrl": "https://github.com/pvsaidurga",
+    "contributions": 20,
+    "repos": [
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2024-04-21T00:00:00.000Z"
+  },
+  {
+    "login": "Rakshithb1",
+    "id": 79500257,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79500257?v=4",
+    "htmlUrl": "https://github.com/Rakshithb1",
+    "contributions": 19,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2024-10-20T00:00:00.000Z"
+  },
+  {
+    "login": "JanardhanBS-SyncByte",
+    "id": 72377118,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72377118?v=4",
+    "htmlUrl": "https://github.com/JanardhanBS-SyncByte",
+    "contributions": 19,
+    "repos": [
+      "mosip/commons"
+    ],
+    "lastActive": "2024-12-08T00:00:00.000Z"
+  },
+  {
+    "login": "mohanachandran-s",
+    "id": 165888272,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/165888272?v=4",
+    "htmlUrl": "https://github.com/mohanachandran-s",
+    "contributions": 19,
+    "repos": [
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2025-11-30T00:00:00.000Z"
+  },
+  {
+    "login": "ramesh-n",
+    "id": 16014452,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16014452?v=4",
+    "htmlUrl": "https://github.com/ramesh-n",
+    "contributions": 18,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2022-02-06T00:00:00.000Z"
+  },
+  {
+    "login": "rachik-hue",
+    "id": 282536599,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/282536599?v=4",
+    "htmlUrl": "https://github.com/rachik-hue",
+    "contributions": 15,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2026-08-30T00:00:00.000Z"
+  },
+  {
+    "login": "mvibhamenon97",
+    "id": 171127483,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/171127483?v=4",
+    "htmlUrl": "https://github.com/mvibhamenon97",
+    "contributions": 14,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2025-08-24T00:00:00.000Z"
+  },
+  {
+    "login": "akilalakshmanan",
+    "id": 77330852,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77330852?v=4",
+    "htmlUrl": "https://github.com/akilalakshmanan",
+    "contributions": 14,
+    "repos": [
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2024-05-26T00:00:00.000Z"
+  },
+  {
+    "login": "tarunchawla2",
+    "id": 50690795,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50690795?v=4",
+    "htmlUrl": "https://github.com/tarunchawla2",
+    "contributions": 14,
+    "repos": [
+      "mosip/commons"
+    ],
+    "lastActive": "2020-01-05T00:00:00.000Z"
+  },
+  {
+    "login": "shubham17998",
+    "id": 88794020,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88794020?v=4",
+    "htmlUrl": "https://github.com/shubham17998",
+    "contributions": 13,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2025-07-06T00:00:00.000Z"
+  },
+  {
+    "login": "mukul-puspam",
+    "id": 35565078,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35565078?v=4",
+    "htmlUrl": "https://github.com/mukul-puspam",
+    "contributions": 12,
+    "repos": [
+      "mosip/commons"
+    ],
+    "lastActive": "2019-12-15T00:00:00.000Z"
+  },
+  {
+    "login": "snyk-bot",
+    "id": 19733683,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19733683?v=4",
+    "htmlUrl": "https://github.com/snyk-bot",
+    "contributions": 12,
+    "repos": [
+      "mosip/commons"
+    ],
+    "lastActive": "2024-07-21T00:00:00.000Z"
+  },
+  {
+    "login": "Anuranjan14",
+    "id": 120705365,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120705365?v=4",
+    "htmlUrl": "https://github.com/Anuranjan14",
+    "contributions": 12,
+    "repos": [
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2024-08-25T00:00:00.000Z"
+  },
+  {
+    "login": "namatedev",
+    "id": 63351067,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63351067?v=4",
+    "htmlUrl": "https://github.com/namatedev",
+    "contributions": 11,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2020-05-24T00:00:00.000Z"
+  },
+  {
+    "login": "rajapandi1234",
+    "id": 138785181,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/138785181?v=4",
+    "htmlUrl": "https://github.com/rajapandi1234",
+    "contributions": 10,
+    "repos": [
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2025-12-14T00:00:00.000Z"
+  },
+  {
+    "login": "kaifk468",
+    "id": 74772315,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74772315?v=4",
+    "htmlUrl": "https://github.com/kaifk468",
+    "contributions": 9,
+    "repos": [
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2023-12-31T00:00:00.000Z"
+  },
+  {
+    "login": "nagendra0721",
+    "id": 174420759,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/174420759?v=4",
+    "htmlUrl": "https://github.com/nagendra0721",
+    "contributions": 8,
+    "repos": [
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2025-11-09T00:00:00.000Z"
+  },
+  {
+    "login": "pramod444",
+    "id": 79993674,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79993674?v=4",
+    "htmlUrl": "https://github.com/pramod444",
+    "contributions": 8,
+    "repos": [
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2023-12-31T00:00:00.000Z"
+  },
+  {
+    "login": "tarique-azeez",
+    "id": 201899071,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/201899071?v=4",
+    "htmlUrl": "https://github.com/tarique-azeez",
+    "contributions": 7,
+    "repos": [
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2025-12-14T00:00:00.000Z"
+  },
+  {
+    "login": "GOKULRAJ136",
+    "id": 110164849,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110164849?v=4",
+    "htmlUrl": "https://github.com/GOKULRAJ136",
+    "contributions": 7,
+    "repos": [
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2025-11-09T00:00:00.000Z"
+  },
+  {
+    "login": "Shilpa-Manjunath",
+    "id": 72008366,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72008366?v=4",
+    "htmlUrl": "https://github.com/Shilpa-Manjunath",
+    "contributions": 7,
+    "repos": [
+      "mosip/commons"
+    ],
+    "lastActive": "2021-07-25T00:00:00.000Z"
+  },
+  {
+    "login": "Aswin-MN",
+    "id": 46191799,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46191799?v=4",
+    "htmlUrl": "https://github.com/Aswin-MN",
+    "contributions": 7,
+    "repos": [
+      "mosip/commons"
+    ],
+    "lastActive": "2020-08-23T00:00:00.000Z"
+  },
+  {
+    "login": "loganathan001",
+    "id": 3040698,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3040698?v=4",
+    "htmlUrl": "https://github.com/loganathan001",
+    "contributions": 7,
+    "repos": [
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2022-04-10T00:00:00.000Z"
+  },
+  {
+    "login": "VSIVAKALYAN",
+    "id": 103260988,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103260988?v=4",
+    "htmlUrl": "https://github.com/VSIVAKALYAN",
+    "contributions": 6,
+    "repos": [
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2025-01-05T00:00:00.000Z"
+  },
+  {
+    "login": "tabishkhan7",
+    "id": 44434598,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44434598?v=4",
+    "htmlUrl": "https://github.com/tabishkhan7",
+    "contributions": 6,
+    "repos": [
+      "mosip/commons"
+    ],
+    "lastActive": "2020-12-06T00:00:00.000Z"
+  },
+  {
+    "login": "anshulv1401",
+    "id": 31562315,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31562315?v=4",
+    "htmlUrl": "https://github.com/anshulv1401",
+    "contributions": 6,
+    "repos": [
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2023-12-31T00:00:00.000Z"
+  },
+  {
+    "login": "gitter-badger",
+    "id": 8518239,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8518239?v=4",
+    "htmlUrl": "https://github.com/gitter-badger",
+    "contributions": 5,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2020-08-16T00:00:00.000Z"
+  },
+  {
+    "login": "mayuradesh",
+    "id": 52281514,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52281514?v=4",
+    "htmlUrl": "https://github.com/mayuradesh",
+    "contributions": 5,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2023-06-04T00:00:00.000Z"
+  },
+  {
+    "login": "ashok-ksharma",
+    "id": 174585915,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/174585915?v=4",
+    "htmlUrl": "https://github.com/ashok-ksharma",
+    "contributions": 5,
+    "repos": [
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2025-08-24T00:00:00.000Z"
+  },
+  {
+    "login": "Nagarjunakuchi88",
+    "id": 64436505,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64436505?v=4",
+    "htmlUrl": "https://github.com/Nagarjunakuchi88",
+    "contributions": 5,
+    "repos": [
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2021-03-07T00:00:00.000Z"
+  },
+  {
+    "login": "Chandrashekarshetti",
+    "id": 73942839,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73942839?v=4",
+    "htmlUrl": "https://github.com/Chandrashekarshetti",
+    "contributions": 4,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2021-04-18T00:00:00.000Z"
+  },
+  {
+    "login": "rohitrrai",
+    "id": 98941812,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98941812?v=4",
+    "htmlUrl": "https://github.com/rohitrrai",
+    "contributions": 4,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2022-02-27T00:00:00.000Z"
+  },
+  {
+    "login": "arun-mosip",
+    "id": 48312564,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48312564?v=4",
+    "htmlUrl": "https://github.com/arun-mosip",
+    "contributions": 4,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2020-07-19T00:00:00.000Z"
+  },
+  {
+    "login": "primeagen-rustaceans",
+    "id": 115938518,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115938518?v=4",
+    "htmlUrl": "https://github.com/primeagen-rustaceans",
+    "contributions": 4,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2023-04-30T00:00:00.000Z"
+  },
+  {
+    "login": "Sarvesh41",
+    "id": 136474800,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/136474800?v=4",
+    "htmlUrl": "https://github.com/Sarvesh41",
+    "contributions": 4,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2023-07-02T00:00:00.000Z"
+  },
+  {
+    "login": "swatigoel",
+    "id": 3157058,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3157058?v=4",
+    "htmlUrl": "https://github.com/swatigoel",
+    "contributions": 3,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons"
+    ],
+    "lastActive": "2025-03-16T00:00:00.000Z"
+  },
+  {
+    "login": "Sreekar0426",
+    "id": 43337968,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43337968?v=4",
+    "htmlUrl": "https://github.com/Sreekar0426",
+    "contributions": 3,
+    "repos": [
+      "mosip/documentation",
+      "mosip/commons"
+    ],
+    "lastActive": "2020-04-05T00:00:00.000Z"
+  },
+  {
+    "login": "NidhiKumari0201",
+    "id": 202102806,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/202102806?v=4",
+    "htmlUrl": "https://github.com/NidhiKumari0201",
+    "contributions": 3,
+    "repos": [
+      "mosip/commons",
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2025-11-23T00:00:00.000Z"
+  },
+  {
+    "login": "mosipbuild",
+    "id": 73113723,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73113723?v=4",
+    "htmlUrl": "https://github.com/mosipbuild",
+    "contributions": 3,
+    "repos": [
+      "mosip/commons"
+    ],
+    "lastActive": "2020-10-18T00:00:00.000Z"
+  },
+  {
+    "login": "sjkarthik",
+    "id": 58928645,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58928645?v=4",
+    "htmlUrl": "https://github.com/sjkarthik",
+    "contributions": 3,
+    "repos": [
+      "mosip/commons"
+    ],
+    "lastActive": "2020-12-06T00:00:00.000Z"
+  },
+  {
+    "login": "anadi",
+    "id": 639546,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/639546?v=4",
+    "htmlUrl": "https://github.com/anadi",
+    "contributions": 3,
+    "repos": [
+      "mosip/commons"
+    ],
+    "lastActive": "2020-01-19T00:00:00.000Z"
+  },
+  {
+    "login": "deeGuru",
+    "id": 3754220,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3754220?v=4",
+    "htmlUrl": "https://github.com/deeGuru",
+    "contributions": 3,
+    "repos": [
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2025-11-23T00:00:00.000Z"
+  },
+  {
+    "login": "shibu-narayanan",
+    "id": 104964065,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104964065?v=4",
+    "htmlUrl": "https://github.com/shibu-narayanan",
+    "contributions": 2,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2022-10-09T00:00:00.000Z"
+  },
+  {
+    "login": "SwethaKrish4",
+    "id": 110164892,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110164892?v=4",
+    "htmlUrl": "https://github.com/SwethaKrish4",
+    "contributions": 2,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2024-02-25T00:00:00.000Z"
+  },
+  {
+    "login": "claude",
+    "id": 81847,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81847?v=4",
+    "htmlUrl": "https://github.com/claude",
+    "contributions": 2,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2026-09-06T00:00:00.000Z"
+  },
+  {
+    "login": "lucidette",
+    "id": 17299240,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17299240?v=4",
+    "htmlUrl": "https://github.com/lucidette",
+    "contributions": 2,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2019-07-14T00:00:00.000Z"
+  },
+  {
+    "login": "arvindwill",
+    "id": 2239985,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2239985?v=4",
+    "htmlUrl": "https://github.com/arvindwill",
+    "contributions": 2,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2023-03-19T00:00:00.000Z"
+  },
+  {
+    "login": "SwapnilWorks-Devops",
+    "id": 226247930,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/226247930?v=4",
+    "htmlUrl": "https://github.com/SwapnilWorks-Devops",
+    "contributions": 2,
+    "repos": [
+      "mosip/commons"
+    ],
+    "lastActive": "2025-11-23T00:00:00.000Z"
+  },
+  {
+    "login": "abhishek8shankar",
+    "id": 127825992,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/127825992?v=4",
+    "htmlUrl": "https://github.com/abhishek8shankar",
+    "contributions": 2,
+    "repos": [
+      "mosip/commons"
+    ],
+    "lastActive": "2024-06-02T00:00:00.000Z"
+  },
+  {
+    "login": "neosoftSatish",
+    "id": 79853375,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79853375?v=4",
+    "htmlUrl": "https://github.com/neosoftSatish",
+    "contributions": 2,
+    "repos": [
+      "mosip/commons"
+    ],
+    "lastActive": "2021-08-01T00:00:00.000Z"
+  },
+  {
+    "login": "johnpsmindtree",
+    "id": 43216416,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43216416?v=4",
+    "htmlUrl": "https://github.com/johnpsmindtree",
+    "contributions": 2,
+    "repos": [
+      "mosip/commons"
+    ],
+    "lastActive": "2020-07-05T00:00:00.000Z"
+  },
+  {
+    "login": "Ravikant-M1044571",
+    "id": 42865066,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42865066?v=4",
+    "htmlUrl": "https://github.com/Ravikant-M1044571",
+    "contributions": 2,
+    "repos": [
+      "mosip/commons"
+    ],
+    "lastActive": "2020-02-16T00:00:00.000Z"
+  },
+  {
+    "login": "ankitvaishnav",
+    "id": 8833913,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8833913?v=4",
+    "htmlUrl": "https://github.com/ankitvaishnav",
+    "contributions": 2,
+    "repos": [
+      "mosip/commons"
+    ],
+    "lastActive": "2020-10-04T00:00:00.000Z"
+  },
+  {
+    "login": "kaledOu",
+    "id": 189997533,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/189997533?v=4",
+    "htmlUrl": "https://github.com/kaledOu",
+    "contributions": 2,
+    "repos": [
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2025-11-23T00:00:00.000Z"
+  },
+  {
+    "login": "gaganama",
+    "id": 97014635,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97014635?v=4",
+    "htmlUrl": "https://github.com/gaganama",
+    "contributions": 2,
+    "repos": [
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2022-05-22T00:00:00.000Z"
+  },
+  {
+    "login": "trialblazerseee",
+    "id": 84778104,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84778104?v=4",
+    "htmlUrl": "https://github.com/trialblazerseee",
+    "contributions": 2,
+    "repos": [
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2025-07-13T00:00:00.000Z"
+  },
+  {
+    "login": "abnandan17",
+    "id": 88335641,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88335641?v=4",
+    "htmlUrl": "https://github.com/abnandan17",
+    "contributions": 1,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2023-09-24T00:00:00.000Z"
+  },
+  {
+    "login": "shubham050300",
+    "id": 39234146,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39234146?v=4",
+    "htmlUrl": "https://github.com/shubham050300",
+    "contributions": 1,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2023-03-19T00:00:00.000Z"
+  },
+  {
+    "login": "hemant-vadher",
+    "id": 46192913,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46192913?v=4",
+    "htmlUrl": "https://github.com/hemant-vadher",
+    "contributions": 1,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2020-06-21T00:00:00.000Z"
+  },
+  {
+    "login": "singhpragya279",
+    "id": 95732743,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95732743?v=4",
+    "htmlUrl": "https://github.com/singhpragya279",
+    "contributions": 1,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2022-09-25T00:00:00.000Z"
+  },
+  {
+    "login": "SwatiPeri",
+    "id": 170813108,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170813108?v=4",
+    "htmlUrl": "https://github.com/SwatiPeri",
+    "contributions": 1,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2024-05-19T00:00:00.000Z"
+  },
+  {
+    "login": "elnyry-sam-k",
+    "id": 10507686,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10507686?v=4",
+    "htmlUrl": "https://github.com/elnyry-sam-k",
+    "contributions": 1,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2022-09-18T00:00:00.000Z"
+  },
+  {
+    "login": "damodarguru",
+    "id": 124761463,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124761463?v=4",
+    "htmlUrl": "https://github.com/damodarguru",
+    "contributions": 1,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2025-06-22T00:00:00.000Z"
+  },
+  {
+    "login": "rolandeke",
+    "id": 47756447,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47756447?v=4",
+    "htmlUrl": "https://github.com/rolandeke",
+    "contributions": 1,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2022-06-05T00:00:00.000Z"
+  },
+  {
+    "login": "netmac",
+    "id": 31994942,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31994942?v=4",
+    "htmlUrl": "https://github.com/netmac",
+    "contributions": 1,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2020-11-22T00:00:00.000Z"
+  },
+  {
+    "login": "doczkal",
+    "id": 16597855,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16597855?v=4",
+    "htmlUrl": "https://github.com/doczkal",
+    "contributions": 1,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2021-05-09T00:00:00.000Z"
+  },
+  {
+    "login": "abhishek-1809",
+    "id": 178302931,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/178302931?v=4",
+    "htmlUrl": "https://github.com/abhishek-1809",
+    "contributions": 1,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2026-06-21T00:00:00.000Z"
+  },
+  {
+    "login": "SachinPremkumar",
+    "id": 52343650,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52343650?v=4",
+    "htmlUrl": "https://github.com/SachinPremkumar",
+    "contributions": 1,
+    "repos": [
+      "mosip/documentation"
+    ],
+    "lastActive": "2025-08-03T00:00:00.000Z"
+  },
+  {
+    "login": "Govindaraj-035",
+    "id": 81289022,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81289022?v=4",
+    "htmlUrl": "https://github.com/Govindaraj-035",
+    "contributions": 1,
+    "repos": [
+      "mosip/commons"
+    ],
+    "lastActive": "2021-08-15T00:00:00.000Z"
+  },
+  {
+    "login": "chetankh239",
+    "id": 206027078,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/206027078?v=4",
+    "htmlUrl": "https://github.com/chetankh239",
+    "contributions": 1,
+    "repos": [
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2025-08-17T00:00:00.000Z"
+  },
+  {
+    "login": "SradhaMohanty5899",
+    "id": 134414554,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/134414554?v=4",
+    "htmlUrl": "https://github.com/SradhaMohanty5899",
+    "contributions": 1,
+    "repos": [
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2025-10-05T00:00:00.000Z"
+  },
+  {
+    "login": "Khuddusshariff0022",
+    "id": 84285283,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84285283?v=4",
+    "htmlUrl": "https://github.com/Khuddusshariff0022",
+    "contributions": 1,
+    "repos": [
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2024-10-13T00:00:00.000Z"
+  },
+  {
+    "login": "MuralitharanK",
+    "id": 23352815,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23352815?v=4",
+    "htmlUrl": "https://github.com/MuralitharanK",
+    "contributions": 1,
+    "repos": [
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2024-06-02T00:00:00.000Z"
+  },
+  {
+    "login": "pjwalstrom",
+    "id": 1249729,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1249729?v=4",
+    "htmlUrl": "https://github.com/pjwalstrom",
+    "contributions": 1,
+    "repos": [
+      "mosip/id-authentication"
+    ],
+    "lastActive": "2024-05-12T00:00:00.000Z"
+  }
+]
